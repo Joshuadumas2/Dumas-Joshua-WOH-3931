@@ -20,4 +20,4 @@ Curabitur sed feugiat elit. Donec feugiat nisi volutpat magna venenatis volutpat
 
 [^1]: First example footnote. View other pages to see sample methods of working with Markdown.
 [^2]: I copied this text from this [website](https://www.lipsum.com/feed/html) 
-[^1]: Testing
+[^3]: Testing
