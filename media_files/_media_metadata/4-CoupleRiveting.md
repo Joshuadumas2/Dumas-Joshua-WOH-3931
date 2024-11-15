@@ -1,3 +1,4 @@
+---
 name: Amerianhomefrontplane
 media_type: image
 
@@ -9,3 +10,4 @@ source: Museum of California
 
 _path: /media_files/images/4-CoupleRiveting.jpg
 layout: media_description
+---
