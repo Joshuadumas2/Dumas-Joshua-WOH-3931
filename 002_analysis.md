@@ -17,6 +17,9 @@ Now analyze your historical subject. (1000 words). You can include images, video
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
 {% include media.html pages=media %}
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Womenandplane'" %}
+{% include media.html pages=media %}
+
 # Linking to a PDF File
 
 [Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
