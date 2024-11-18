@@ -2,8 +2,8 @@
 name: Amerianhomefrontplane
 media_type: image
 
-_title: Napoleon ler en costume du Sacre
-description: Napoleon as the Emperor of France
+_title: Women Building Plane
+description: Women Building Plane
 creator: Unknown photographer
 _date: 1941
 source: Museum of California
