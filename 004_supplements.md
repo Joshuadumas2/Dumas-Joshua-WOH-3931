@@ -14,7 +14,7 @@ Do you have supplementary materials (such as media files) or links for further i
 
 # Supplementary Websites
 
-[Place your links here to websites that have information about your topic.
+[National Park Service: The American Home Front and World War II.
 ](https://www.nps.gov/articles/000/the-american-home-front-and-world-war-ii.htm)
 # Supplementary Media Files
 
