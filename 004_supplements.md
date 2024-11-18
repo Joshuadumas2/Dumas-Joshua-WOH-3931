@@ -17,8 +17,6 @@ Do you have supplementary materials (such as media files) or links for further i
 [National Park Service: The American Home Front and World War II.
 ](https://www.nps.gov/articles/000/the-american-home-front-and-world-war-ii.htm)
 
-nationalww2museum
-
 [National WW2 Museum: American HomeFront](https://www.nationalww2museum.org/war/articles/home-front)
 
 # Supplementary Media Files
