@@ -6,7 +6,16 @@ number: 2
 
 # Analysis
 
-## Now analyze your historical subject. (1000 words). You can include images, videos and PDFs that pertain to your subject using the examples below. To add more, simply copy, paste, and change the title of your item to correspond with your media file.
+## ANALYSIS 1: Women’s Role on the Homefront - Louise Price
+
+## ANALYSIS 2: Homefront Economics - Katya Palma
+
+## ANALYSIS 3: Homefront and Race relations / civil rights -  Noah Senzer
+
+## ANALYSIS 4: Homefront and Culture - Samantha Kinggard
+
+
+
 
 # Embedding a Single Image
 
