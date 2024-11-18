@@ -19,7 +19,7 @@ Do you have supplementary materials (such as media files) or links for further i
 
 nationalww2museum
 
-https://www.nationalww2museum.org/war/articles/home-front
+[National WW2 Museum: American HomeFront](https://www.nationalww2museum.org/war/articles/home-front)
 
 # Supplementary Media Files
 
