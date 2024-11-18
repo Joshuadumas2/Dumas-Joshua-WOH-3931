@@ -4,6 +4,7 @@ title: Introduction
 number: 1
 ---
 # Introduction
+## Joshua Dumas
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Amerianhomefrontplane'" %}
 {% include media.html pages=media %}
