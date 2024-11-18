@@ -10,7 +10,7 @@ number: 2
 
 ## ANALYSIS 2: Homefront Economics - Katya Palma
 
-## ANALYSIS 3: Homefront and Race relations / civil rights -  Noah Senzer
+## ANALYSIS 3: Homefront and Race relations / Civil Rights -  Noah Senzer
 
 ## ANALYSIS 4: Homefront and Culture - Samantha Kinggard
 
