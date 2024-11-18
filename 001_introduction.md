@@ -5,10 +5,6 @@ number: 1
 ---
 # Introduction
 
-I am testing this website.
-
-The following is sample text to show the capabilities of presenting text with various formatting (such as bold), different languages, adding footnotes, and images.[^1]
-
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Amerianhomefrontplane'" %}
 {% include media.html pages=media %}
 
