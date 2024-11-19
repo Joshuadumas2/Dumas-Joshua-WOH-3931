@@ -27,7 +27,7 @@ number: 2
 {% include media.html pages=media %}
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Womenandplane'" %}
-{% include media.html pages=media %}
+{% include media.html pages=media %} width="300" height="200">
 
 # Linking to a PDF File
 
