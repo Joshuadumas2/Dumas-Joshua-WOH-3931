@@ -26,8 +26,8 @@ number: 2
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
 {% include media.html pages=media %}
 
-({% assign media = site.media_metadata | where_exp: "item", "item.name == 'Womenandplane'" %}
-{% include media.html pages=media %}!=250x250)
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Womenandplane'" %}
+{% include media.html pages=media %}!
 
 # Linking to a PDF File
 
