@@ -19,6 +19,8 @@ Do you have supplementary materials (such as media files) or links for further i
 
 [National WW2 Museum: American HomeFront](https://www.nationalww2museum.org/war/articles/home-front)
 
+[History Channel: The US Home Front During World War II](https://www.history.com/topics/world-war-ii/us-home-front-during-world-war-ii)
+
 # Supplementary Media Files
 
 Insert videos or images here.
