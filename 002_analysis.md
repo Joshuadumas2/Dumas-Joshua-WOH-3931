@@ -8,7 +8,7 @@ number: 2
 
 ## ANALYSIS 1: Women’s Role on the Homefront - Louise Price
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'cook'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Recipes'" %}
 {% include media.html pages=media %}
 
 World War II had an extreme impact on lives around the world, and while American soil may not have seen battle, the homefront certainly felt the effects of the conflict. One of the most well known societal effects of the War on the USA was the shifting roles of women during the time. This essay section will serve to analyze the realities of women during World War II in both the working and domestic spheres, as well as interrogate the extent to which gender roles and stereotypes were challenged and enforced during this time.
