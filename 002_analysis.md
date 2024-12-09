@@ -24,6 +24,10 @@ To summarize and conclude, women during World War II were expected to operate in
 
 ## ANALYSIS 2: Homefront Economics - Katya Palma
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Warbond'" %}
+{% include media.html pages=media %}
+
+
 ## ANALYSIS 3: Homefront and Race relations / Civil Rights -  Noah Senzer
 
 ## ANALYSIS 4: Homefront and Culture - Samantha Kinggard
@@ -33,8 +37,6 @@ To summarize and conclude, women during World War II were expected to operate in
 
 # Embedding a Single Image
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'PrussianInfantryHohenfriedberg'" %}
-{% include media.html pages=media %}
 
 # Embedding a Single Video
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
