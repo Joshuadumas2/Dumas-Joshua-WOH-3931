@@ -24,7 +24,7 @@ To summarize and conclude, women during World War II were expected to operate in
 
 ## ANALYSIS 2: Homefront Economics - Katya Palma
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'wabond'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'bond'" %}
 {% include media.html pages=media %}
 
 During the Second World War, the economy of the United States went through significant changes. The government implemented many price controls and rationing policies, such as limiting the use of materials like gasoline, metal, and rubber. Production shifted almost entirely from consumer goods to military goods for obvious reasons, and unemployment was at a historical low as factory jobs multiplied in order to support wartime production. War bonds were also incredibly popular and heavily advertised as they helped the government fund the war. These transformations provided both a booming wartime economy and an increase in opportunities for citizens nationwide. 
