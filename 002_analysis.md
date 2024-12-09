@@ -57,8 +57,7 @@ Overall, the Second World War was able to help the United States’ economy boun
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
 {% include media.html pages=media %}
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Womenandplane'" %}
-{% include media.html pages=media %}!
+
 
 # Linking to a PDF File
 
