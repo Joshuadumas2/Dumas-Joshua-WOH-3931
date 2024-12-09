@@ -27,6 +27,22 @@ To summarize and conclude, women during World War II were expected to operate in
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Warbond'" %}
 {% include media.html pages=media %}
 
+During the Second World War, the economy of the United States went through significant changes. The government implemented many price controls and rationing policies, such as limiting the use of materials like gasoline, metal, and rubber. Production shifted almost entirely from consumer goods to military goods for obvious reasons, and unemployment was at a historical low as factory jobs multiplied in order to support wartime production. War bonds were also incredibly popular and heavily advertised as they helped the government fund the war. These transformations provided both a booming wartime economy and an increase in opportunities for citizens nationwide. 
+
+The United States entered the Second World War after the Japanese attack on Pearl Harbor in December of 1941. About a month and a half after the attack, Congress passed the Emergency Price Control Act. This legislation allowed Congress to have control over the maximum prices of all products at all levels, including exports, imports, and purchases made by the country as a whole and the states.[^7] Along with controlling prices, the government could also limit how much money was in circulation, according to the National Park Service.[^8] People having less cash at their disposal means that prices could not go up because if they did, people would not have been able to afford anything. The National Park Service also states that the government was able to control the circulation of money through the Victory Bonds program and the expansion of income taxes. All of these things were done in order to limit inflation and allow citizens to afford everyday items. Another huge focus of the government was military production. The production of consumer goods basically went out the window, as the army and navy essentially became the United States’ largest investors and consumers.[^9] The government needed a great amount of materials to account for all of the military equipment and uniforms that factories were producing on a daily basis. Because of this, there was a high demand for materials such as metal, gasoline, fabric, and rubber, and it was announced that American citizens now needed to ration clothing, food, gasoline, and other supplies. A lot of items had to be packaged with different materials because of this. A good example is that many companies had to begin using glass jars instead of metal cans to preserve tin.[^10] The conservation of fabric can be seen in the production of women’s clothing, as skirts became shorter, hats became smaller, and clothing items overall became much more simple.[^11] Gasoline was one of the most critical items to ration because fuel was needed for planes, ships, and tanks. In order to preserve gasoline, the government took the action of lowering speed limits and promoting carpooling.[^12] All of these efforts combined were able to regulate the American economy during the war, and save items for military usage.    
+
+Besides price and inflation control and rationing, something else was going on in the American economy during the Second World War: a decreasing unemployment rate. The nation was in dire need of factory workers to help support the production of military supplies; therefore, millions of men and women joined the service and factory workforce, which caused unemployment to drop significantly. For example, unemployment went from 14.3 percent in 1937 to 9.9 percent in 1941, which is still not that low, but it marked the moment that unemployment averaged less than 10 percent for the first time in ten years.[^13] Furthermore, Gross National Product (GNP) during this time went from $99.7 billion in 1940 to almost $212 billion in 1945, meaning it more than doubled in only 5 years.[^14] Gross National Product is essentially the total monetary value of goods and services a country has produced in one year. This increase in jobs also provided new opportunities for both women and African Americans nationwide as more and more people were needed in the factories and the military. The purchasing and selling of war bonds was also a widespread effort during this time. War bonds were priced from twenty-five to one thousand dollars each and had a maturing age of ten years. Citizens would purchase the war bonds for lower than face value and would turn them in after the war to collect the remaining amount of money in order to make a profit. The purchasing of war bonds significantly helped the government fund wartime production.[^15] Without the hard work of factory employees and the constant amount of money being circulated, the economy would most likely not have succeeded as much as it did during this time. 
+
+Overall, the Second World War was able to help the United States’ economy bounce back from the Great Depression by creating new jobs, increasing production and output, and regulating all things money. Inflation and prices were able to be kept at bay, Gross National Product skyrocketed, and nearly every American was employed and receiving a steady income. After the war, the G.I. Bill was introduced. This bill essentially gave war veterans an incredible amount of support by giving them educational benefits, low-cost housing, unemployment insurance, and business loans.[^16] This was extremely helpful as many war veterans had some trouble getting back into their normal everyday lives after years of fighting. The Second World War, although extremely violent and sorrowful, provided the United States with a booming economy, and it laid good groundwork for a successful post-war era for Americans. 
+
+
+
+
+
+
+
+
+
 
 ## ANALYSIS 3: Homefront and Race relations / Civil Rights -  Noah Senzer
 
@@ -60,5 +76,20 @@ Curabitur sed feugiat elit. Donec feugiat nisi volutpat magna venenatis volutpat
 [^4]: “Victory Gardens: Food for the Fight”, The National World War II Museum, accessed December 3rd, 2024, 19:41 EST, https://www.nationalww2museum.org/war/articles/victory-gardens-world-war-ii
 [^5]: Ohmer, Susan, 1990, Female spectatorship and women's magazines: Hollywood, Good Housekeeping, and World War II. The Velvet light trap, 1990-04, Vol.25 (25), p.53-68
 [^6]: Kaufman, Rosie The Riveter, 1
+[^7]:The Emergency Price Control Act of 1942: Basic Authority and Sanctions on JSTOR,” Www.Jstor.Org, n.d., https://www.jstor.org/stable/1189806,  p.26.
+[^8]: “The American Home Front During World War II: The Economy (U.S. National Park Service),” n.d., https://www.nps.gov/articles/000/wwii-american-home-front-economy.htm.
+[^9]: “Mobilizing the World War II Economy: Labor and the Industrial-Military Alliance on JSTOR,” Www.Jstor.Org, n.d., https://www.jstor.org/stable/3638133, p.444
+[^10]: “World War II Poster Campaigns: Preaching Frugality to American Consumers on JSTOR,” Www.Jstor.Org, n.d., https://www.jstor.org/stable/4622151, p.71.
+[^11]: “World War II Poster Campaigns: Preaching Frugality to American Consumers on JSTOR,” 71.
+[^12]:“Promoting a Culture of Driving: Rationing, Car Sharing, and Propaganda in World War II on JSTOR,” Www.Jstor.Org, n.d., https://www.jstor.org/stable/23259140, p.337-338.
+[^13]: “The Impact of the Second World War on US Productivity Growth on JSTOR,” Www.Jstor.Org, n.d., https://www.jstor.org/stable/40057606, p.676.
+[^14]: “Take a Closer Look: America Goes to War | the National WWII Museum | New Orleans,” The National WWII Museum | New Orleans, n.d., https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/america-goes-war-take-closer-look.
+[^15]: “Wartime Production on JSTOR,” Www.Jstor.Org, n.d., https://www.jstor.org/stable/25163526, p.47.
+[^16]: Paco Martorell and Peter Bergman, “Military-Related Education Benefit Programs,” in Understanding the Cost and Quality of Military-Related Education Benefit Programs (RAND Corporation, 2013), https://www.jstor.org/stable/10.7249/j.ctt5vjwnk.9, p.3
+
+[^6]:
+v
+v
+v
 
 
