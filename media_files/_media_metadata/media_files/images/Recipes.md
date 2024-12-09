@@ -8,6 +8,6 @@ creator: Unknown photographer
 _date: 1941
 source: 
 
-_path: /media_files/images/4-CoupleRiveting.jpg
+_path: /media_files/images/Recipes
 layout: media_description
 ---
