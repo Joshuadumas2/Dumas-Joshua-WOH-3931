@@ -76,7 +76,7 @@ Curabitur sed feugiat elit. Donec feugiat nisi volutpat magna venenatis volutpat
 [^3]: Davey, Frances ; Salapska-Gelleri, Joanna; Bartrop, Paul R.,A transnational perspective of women on the home front,The Routledge History of the Second World War, 2022, p.67-80
 [^4]: “Victory Gardens: Food for the Fight”, The National World War II Museum, accessed December 3rd, 2024, 19:41 EST, https://www.nationalww2museum.org/war/articles/victory-gardens-world-war-ii
 [^5]: Ohmer, Susan, 1990, Female spectatorship and women's magazines: Hollywood, Good Housekeeping, and World War II. The Velvet light trap, 1990-04, Vol.25 (25), p.53-68
-[^6]:  "Kaufman", Rosie The Riveter, 1
+[^6]:  Kaufman, Pat, Rosie the Riveter Remembers, Magazine of history, 2002-04, Vol.16 (3), p.25-29
 [^7]:The Emergency Price Control Act of 1942: Basic Authority and Sanctions on JSTOR,” Www.Jstor.Org, n.d., https://www.jstor.org/stable/1189806,  p.26.
 [^8]: “The American Home Front During World War II: The Economy (U.S. National Park Service),” n.d., https://www.nps.gov/articles/000/wwii-american-home-front-economy.htm.
 [^9]: “Mobilizing the World War II Economy: Labor and the Industrial-Military Alliance on JSTOR,” Www.Jstor.Org, n.d., https://www.jstor.org/stable/3638133, p.444
