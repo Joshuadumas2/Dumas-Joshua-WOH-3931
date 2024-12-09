@@ -82,7 +82,7 @@ Curabitur sed feugiat elit. Donec feugiat nisi volutpat magna venenatis volutpat
 [^11]: “World War II Poster Campaigns: Preaching Frugality to American Consumers on JSTOR,” 71.
 [^12]:“Promoting a Culture of Driving: Rationing, Car Sharing, and Propaganda in World War II on JSTOR,” Www.Jstor.Org, n.d., https://www.jstor.org/stable/23259140, p.337-338.
 [^13]: “The Impact of the Second World War on US Productivity Growth on JSTOR,” Www.Jstor.Org, n.d., https://www.jstor.org/stable/40057606, p.676.
-[^14]: “Take a Closer Look: America Goes to War | the National WWII Museum | New Orleans,” The National WWII Museum | New Orleans, n.d., https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/america-goes-war-take-closer-look.
+[^14]: “Take a Closer Look: America Goes to War  the National WWII Museum  New Orleans,” The National WWII Museum New Orleans, n.d., https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/america-goes-war-take-closer-look.
 [^15]: “Wartime Production on JSTOR,” Www.Jstor.Org, n.d., https://www.jstor.org/stable/25163526, p.47.
 [^16]: Paco Martorell and Peter Bergman, “Military-Related Education Benefit Programs,” in Understanding the Cost and Quality of Military-Related Education Benefit Programs (RAND Corporation, 2013), https://www.jstor.org/stable/10.7249/j.ctt5vjwnk.9, p.3
 
