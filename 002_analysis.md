@@ -8,6 +8,9 @@ number: 2
 
 ## ANALYSIS 1: Women’s Role on the Homefront - Louise Price
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Recipes'" %}
+{% include media.html pages=media %}
+
 ## ANALYSIS 2: Homefront Economics - Katya Palma
 
 ## ANALYSIS 3: Homefront and Race relations / Civil Rights -  Noah Senzer
