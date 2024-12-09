@@ -7,6 +7,9 @@ number: 3
 # Conclusion
 ## Katia Huddleston
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Womenandplane'" %}
+{% include media.html pages=media %}!
+
 After Pearl Harbor, American homes and cities did not face the same fate as Dresden, London, and other European cities whose buildings and infrastructure were destroyed in air raids and on-the-ground fighting. However, as we’ve observed, the war drastically influenced American culture and society between 1941 and 1945 and permanently changed gender, race, and economic relations beyond the end of the war.
 Women entered the U.S. workforce in waves in 1941, and many never left. When young American men left to fight in Europe and the Pacific, women stepped in to fill the gaps. Not only did their participation in the labor force prevent the economy from collapsing at home, they built trucks, planes, and weaponry that supported U.S. military campaigns across the world. These first female workers paved the way for future generations by normalizing women in the workforce.
 Undoubtedly, the American economy strengthened and consolidated during the war. While raised taxes and rationing challenged Americans at home, factory production boomed, and the devastation of European industry secured the United States a position as a major exporter and the chief economic power at the war’s end. The U.S. government took advantage of this unique economic opportunity and created the GI Bill. Not only did this reward World War II veterans, it artificially created a skilled labor force that would continue to benefit the American economy for decades.
