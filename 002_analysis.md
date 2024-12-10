@@ -67,6 +67,25 @@ Race relations on the U.S. homefront during World War II however, were not solel
 
 ## ANALYSIS 4: Homefront and Culture - Samantha Kinggard
 
+During the Second World War, we saw American culture change at a rapid pace. Information during this time was a sacred resource, and how people were sharing and receiving information was developing. During this time, people also began to spread messages through the use of propaganda, which became a significant part of American culture. America saw the growth of propaganda through films, the radio, and news broadcasting as the war was raging in Europe.
+	
+ One of the most influential parts of American culture while being on the American homefront during World War II was the spread of propoganda. According to “Women and War: St. Petersburg Women during World War II”, “Government propaganda, national periodicals, and local newspapers worked in unison to promote female employment, and popular songs like "Rosie the Riveter" inspired allegiance,”.[^21] Propaganda inspired many people on the American homefront, whether it was inspiring women to go to work or for people to support America’s involvement in the war. An important aspect about American propaganda was that it was always in places that were highly visible, accessible, and inexpensive, allowing for it to be seen by masses of people to spread the targeted message.[^22]
+
+Propaganda that was used during this time include some of the most infamous pieces of art in American culture.  For example, Rosie the Riveter was a significant piece of American propaganda that shifted American culture. Rosie was “ a symbol for women in the workforce and for women’s independence.”[^23] The purpose of creating this image of Rosie the Riveter was to convince women to go to work to help with the jobs that were now vacated due to the influx of men going to war.[^24] We saw propaganda have a positive effect, as the amount of women in the workforce increased significantly, going “from 10.8 million in March, 1941, to more than 18 million in August, 1944.”[^25]
+	
+ The entity that was responsible for the spread of propagranda was the United States’s Office of War Information. This office was created by President Roosevelt with the intention of encouraging women and the people on the American homefront to contribute to the wartime efforts.[^26] This included people working in factories, businesses, and in any occupation that was left with openings when the workers went to war. This office was also meant to “undermine enemy morale” and to boost wartime production.[^27]
+	
+ Another significant part of American propaganda during the war was the use of films. The use of films in American propaganda was vital as, “At the outbreak of the Second World War, 80 million out of the 131 million Americans went to the cinema each week.”[^28] With so many people regularly attending the cinema, films were one of the best ways to spread propaganda to encourage people to go to work and to increase American allegiance. These films were created to not only spread information about the war efforts across the ocean, but it was also meant to increase morale. The movies produced during this time were full of patriotism and showed the value of “individual sacrifice for a larger cause.”[^29] These films would also introduce cartoons, portraying the enemy in a comedic way, or they would emphasize the importance of America’s involvement in the war and the need for America to win.[^30] The film industry played a significant role in spreading American propaganda. 
+	
+ The radio was also a significant part of the American cultural experience on the homefront. The radio played two main roles: to inform American citizens back home about current events in Europe and to use propaganda to encourage those back home to stay in business and to keep working to help the soldiers in Europe.[^31] As the war progressed, people became increasingly dependent on the radio for information, as there were not many other ways to get updates about the war. Not only would radio shows share news from the front lines, but they would also share war-related storylines, to help connect those on the homefront to those on the frontlines. For example, a series on the radio called “Soldiers of the Press” detailed the events that correspondents on the front lines had to go through.[^32] The use of radio was another significant part of the American homefront as it kept citizens informed.
+	
+ Another significant aspect of American propaganda was its use towards preparing for the end of the war. During the war, it was vital for women to step out of their homes and go to work force to help the American economy and the men fighting overseas. This need for women in the workforce was seen at the time as temporary. During the war effort, while women were working, they were “bombarded with propaganda extolling home life reminding them they would have to return to their homes when “‘the boys came back.”[^33] The use of propaganda kept women aware of how society viewed them and their roles while men were away at war and the expectations of them for when the war was over. Propaganda had two faces to it in terms of women in the workforce: to convince women to go to work and to convince women to stop working when the men came back.
+	
+ American propaganda was a significant aspect to American culture on the homefront. It was the best way to boost morale and keep the economy running. The use of propaganda was vital to keeping those at home connected and updated on the wartime efforts. A significant part of American culture during World War II was this use of propaganda through films and radio/news broadcasting. 
+
+
+
+
 
 
 
@@ -108,5 +127,20 @@ Curabitur sed feugiat elit. Donec feugiat nisi volutpat magna venenatis volutpat
 [^18]: "Capeci, Dominic J., and Martha Wilkerson. “The Detroit Rioters of 1943: A Reinterpretation.” Michigan Historical Review 16, no. 1 (1990): 49–72. https://doi.org/10.2307/20173210.
 [^19]: "Castillo, Richard Griswold del. “The Los Angeles ‘Zoot Suit Riots’ Revisited: Mexican and Latin American Perspectives.” Mexican Studies/Estudios Mexicanos 16, no. 2 (2000): 367–91. https://doi.org/10.2307/1052202.
 [^20]: "Cooper, Eunice, and Helen Dinerman. “Analysis of the Film ‘Don’t Be a Sucker’: A Study in Communication.” The Public Opinion Quarterly 15, no. 2 (1951): 243–64. http://www.jstor.org/stable/2746167.
+[^21]: Babb, Ellen J. “Women and War: St. Petersburg Women during World War II.” The Florida Historical Quarterly 73, no. 1 (1994): 43–61. http://www.jstor.org/stable/30148726.
+[^22]: “World War II Propaganda.” PBS. http://www.pbs.org/wgbh/americanexperience/features/goebbels-propaganda/.
+[^23]: “Rosie the Riveter.” Encyclopædia Britannica, October 22, 2024. https://www.britannica.com/topic/Rosie-the-Riveter.  
+[^24]: “Home Front during World War II: Rationing.” History.com. https://www.history.com/topics/world-war-ii/us-home-front-during-world-war-ii. 
+[^25]: Miller, Marc. “Working Women and World War II.” The New England Quarterly 53, no. 1 (1980): 42–61. https://doi.org/10.2307/365288.
+[^26]: “World War II Propaganda.” PBS. http://www.pbs.org/wgbh/americanexperience/features/goebbels-propaganda/.
+[^27]: “World War II Propaganda.” PBS. http://www.pbs.org/wgbh/americanexperience/features/goebbels-propaganda/. 
+[^28]: Bennett, Todd. “The Celluloid War: State and Studio in Anglo-American Propaganda Film-Making, 1939-1941.” The International History Review 24, no. 1 (2002): 64–102. http://www.jstor.org/stable/40110034.
+[^29]: Digital History, Steven Mintz. “Digital History.” UH.. http://www.digitalhistory.uh.edu/teachers/modules/ww2/wartimehollywood.html#:~:text=Hollywood%27s%20greatest%20contribution%20to%20the,sacrifices%20for%20a%20larger%20cause. 
+[^30]: “Home Front during World War II: Rationing.” History.com..https://www.history.com/topics/world-war-ii/us-home-front-during-world-war-ii. 
+[^31]: “WWII Radio.” WWII Radio | Library of American Broadcasting. https://exhibitions.lib.umd.edu/libraryofamericanbroadcasting/wwii-radio. 
+[^32]: “World War II on the Radio.” World War II on the Radio | Old Time Radio. https://www.otrcat.com/world-war-ii-on-the-radio. 
+[^33]: Miller, Marc. “Working Women and World War II.” The New England Quarterly 53, no. 1 (1980): 42–61. https://doi.org/10.2307/365288.
+
+
 
 
