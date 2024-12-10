@@ -67,7 +67,7 @@ Race relations on the U.S. homefront during World War II however, were not solel
 
 ## ANALYSIS 4: Homefront and Culture - Samantha Kinggard
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'rose1'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'pin'" %}
 {% include media.html pages=media %}
 
 
