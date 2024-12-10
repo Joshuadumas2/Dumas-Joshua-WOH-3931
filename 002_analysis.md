@@ -67,6 +67,10 @@ Race relations on the U.S. homefront during World War II however, were not solel
 
 ## ANALYSIS 4: Homefront and Culture - Samantha Kinggard
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'rose'" %}
+{% include media.html pages=media %}
+
+
 During the Second World War, we saw American culture change at a rapid pace. Information during this time was a sacred resource, and how people were sharing and receiving information was developing. During this time, people also began to spread messages through the use of propaganda, which became a significant part of American culture. America saw the growth of propaganda through films, the radio, and news broadcasting as the war was raging in Europe.
 	
  One of the most influential parts of American culture while being on the American homefront during World War II was the spread of propoganda. According to “Women and War: St. Petersburg Women during World War II”, “Government propaganda, national periodicals, and local newspapers worked in unison to promote female employment, and popular songs like "Rosie the Riveter" inspired allegiance,”.[^21] Propaganda inspired many people on the American homefront, whether it was inspiring women to go to work or for people to support America’s involvement in the war. An important aspect about American propaganda was that it was always in places that were highly visible, accessible, and inexpensive, allowing for it to be seen by masses of people to spread the targeted message.[^22]
