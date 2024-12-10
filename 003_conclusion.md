@@ -8,7 +8,7 @@ number: 3
 ## Katia Huddleston
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Womenandplane'" %}
-{% include media.html pages=media %}!
+{% include media.html pages=media %}
 
 American homes and cities did not face the same fate as European cities whose buildings and infrastructure were destroyed in air raids and on-the-ground fighting. However, the war drastically influenced American culture and society and permanently changed gender, race, and economic relations beyond the end of the war.
 
