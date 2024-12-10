@@ -99,14 +99,10 @@ Curabitur sed feugiat elit. Donec feugiat nisi volutpat magna venenatis volutpat
 [^13]: “The Impact of the Second World War on US Productivity Growth on JSTOR,” Www.Jstor.Org, n.d., https://www.jstor.org/stable/40057606, p.676.
 [^14]: “Take a Closer Look: America Goes to War  the National WWII Museum  New Orleans,” The National WWII Museum New Orleans, n.d., https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/america-goes-war-take-closer-look.
 [^15]: “Wartime Production on JSTOR,” Www.Jstor.Org, n.d., https://www.jstor.org/stable/25163526, p.47.
-[^16]: Paco Martorell and Peter Bergman, “Military-Related Education Benefit Programs,” in Understanding the Cost and Quality of Military-Related Education Benefit Programs (RAND Corporation, 2013), https://www.jstor.org/stable/10.7249/j.ctt5vjwnk.9, p.3
-[^17]: Kersten, Andrew E. “Jobs and Justice: Detroit, Fair Employment, and Federal Activism during the Second World War.” Michigan Historical Review 25, no. 1 (1999): 76–101. https://doi.org/10.2307/20173794.
-[^18]: Capeci, Dominic J., and Martha Wilkerson. “The Detroit Rioters of 1943: A Reinterpretation.” Michigan Historical Review 16, no. 1 (1990): 49–72. https://doi.org/10.2307/20173210.
-[^19]: Castillo, Richard Griswold del. “The Los Angeles ‘Zoot Suit Riots’ Revisited: Mexican and Latin American Perspectives.” Mexican Studies/Estudios Mexicanos 16, no. 2 (2000): 367–91. https://doi.org/10.2307/1052202.
-[^20]:Cooper, Eunice, and Helen Dinerman. “Analysis of the Film ‘Don’t Be a Sucker’: A Study in Communication.” The Public Opinion Quarterly 15, no. 2 (1951): 243–64. http://www.jstor.org/stable/2746167.
-[^16]:
-v
-v
-v
+[^16]: "Paco Martorell and Peter Bergman, “Military-Related Education Benefit Programs,” in Understanding the Cost and Quality of Military-Related Education Benefit Programs (RAND Corporation, 2013), https://www.jstor.org/stable/10.7249/j.ctt5vjwnk.9, p.3
+[^17]:  "Kersten, Andrew E. “Jobs and Justice: Detroit, Fair Employment, and Federal Activism during the Second World War.” Michigan Historical Review 25, no. 1 (1999): 76–101. https://doi.org/10.2307/20173794.
+[^18]: "Capeci, Dominic J., and Martha Wilkerson. “The Detroit Rioters of 1943: A Reinterpretation.” Michigan Historical Review 16, no. 1 (1990): 49–72. https://doi.org/10.2307/20173210.
+[^19]: "Castillo, Richard Griswold del. “The Los Angeles ‘Zoot Suit Riots’ Revisited: Mexican and Latin American Perspectives.” Mexican Studies/Estudios Mexicanos 16, no. 2 (2000): 367–91. https://doi.org/10.2307/1052202.
+[^20]: "Cooper, Eunice, and Helen Dinerman. “Analysis of the Film ‘Don’t Be a Sucker’: A Study in Communication.” The Public Opinion Quarterly 15, no. 2 (1951): 243–64. http://www.jstor.org/stable/2746167.
 
 
